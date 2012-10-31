@@ -1,7 +1,7 @@
 > name: commands.txt
 > description: This is a Quix Command File
 > author: André Ruffert [@andreruffert]
-> repository:
+> repository: https://github.com/andreruffert/browser-command-line
 > learn more: http://quixapp.com
 
 @Custom commands
