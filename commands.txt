@@ -6,3 +6,5 @@
 
 @Custom commands
 @...
+
+test    (function(){console.log('test');})();
