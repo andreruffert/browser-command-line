@@ -7,6 +7,5 @@
 @Custom commands
 @...
 
-test    script:https://raw.github.com/andreruffert/browser-command-line/master/javascripts/test.js
-jtid    javascript:function%20x(){prompt('JIRA%20Ticket-ID',document.getElementById('key-val').text+";"+document.getElementById('summary-val').getElementsByTagName('a')[0].text)}x()
+jtid    script:https://raw.github.com/andreruffert/browser-command-line/master/javascripts/jtid.js
 
