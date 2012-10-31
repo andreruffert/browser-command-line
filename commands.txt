@@ -8,3 +8,4 @@
 @...
 
 test    javascript:(function(){console.log('test');})();
+jtid    javascript:function%20x(){prompt('JIRA%20Ticket-ID',document.getElementById('key-val').text+";"+document.getElementById('summary-val').getElementsByTagName('a')[0].text)}x()
