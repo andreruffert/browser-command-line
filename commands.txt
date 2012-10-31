@@ -1,0 +1,8 @@
+> name: commands.txt
+> description: This is a Quix Command File
+> author: André Ruffert [@andreruffert]
+> repository:
+> learn more: http://quixapp.com
+
+@Custom commands
+@...
