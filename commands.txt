@@ -14,4 +14,4 @@ jtid        script:https://raw.github.com/andreruffert/browser-command-line/mast
 emmet       http://docs.emmet.io/cheat-sheet/
 
 > npm cheatsheet
-npm         http://blog.nodejitsu.com/npm-cheatsheet
+npm         http://blog.nodejitsu.com/npm-cheatsheet/
