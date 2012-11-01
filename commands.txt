@@ -11,7 +11,7 @@
 jtid        script:https://raw.github.com/andreruffert/browser-command-line/master/javascripts/jtid.js
 
 > Emmet cheatsheet
-emmet       http://docs.emmet.io/cheat-sheet/
+ch-emmet    http://docs.emmet.io/cheat-sheet/
 
 > npm cheatsheet
-npm         http://blog.nodejitsu.com/npm-cheatsheet/
+ch-npm      http://blog.nodejitsu.com/npm-cheatsheet/
